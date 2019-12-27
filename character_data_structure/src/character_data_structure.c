@@ -41,7 +41,7 @@ struct go_dim_struct
 
 struct go_coord_struct
 {
-	unsigned int X;
+	unsigned int X
 	unsigned int Y;
 	unsigned int Xoff;
 	unsigned int Yoff;
